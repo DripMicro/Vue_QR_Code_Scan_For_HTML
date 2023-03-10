@@ -4,5 +4,5 @@ This is the demo for the usage of the [vue-barcode-reader](https://github.com/ol
 
 ## Demo
 
-You can check this repository deployed to [Vercel](https://vue-barcode-reader-example-2iiz1fhbf-olefirenko.vercel.app/) or [Netlify](https://stupefied-meitner-58f299.netlify.app/).
+You can check this repository deployed to [Netlify](https://stupefied-meitner-58f299.netlify.app/).
 You can check how `vue-barcode-reader` library works on live production website [here](https://parceltrackingapp.com/en).
